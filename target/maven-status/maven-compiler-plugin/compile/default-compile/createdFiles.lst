@@ -1,0 +1,11 @@
+com\mycompany\splitexpense\Balance.class
+com\mycompany\splitexpense\User.class
+com\mycompany\splitexpense\Expenses.class
+com\mycompany\splitexpense\Split.class
+com\mycompany\splitexpense\SplitExact.class
+com\mycompany\splitexpense\Expenseservice.class
+com\mycompany\splitexpense\SplitPercent.class
+com\mycompany\splitexpense\SplitEqual.class
+com\mycompany\splitexpense\Expenseservice$1.class
+com\mycompany\splitexpense\SplitExpense.class
+com\mycompany\splitexpense\Splittype.class
